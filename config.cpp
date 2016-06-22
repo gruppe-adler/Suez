@@ -13,9 +13,9 @@ class CfgPatches
 class CfgVehicles{};
 class CfgWorlds
 {
-	mapSize = 20480;
+	mapSize = 5120;
 	mapZone = 35;
-	mapArea[] = {25.011957,39.718452,25.481527,40.094578};
+	mapArea[] = {32.315,30.4059,32.37,30.449};
 	class DefaultWorld
 	{
 		class Weather
