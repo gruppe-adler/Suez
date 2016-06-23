@@ -1,4 +1,4 @@
 #Suez
-Here you'll find the config for our upcoming map. 
+Here you'll find the config for the map we’re working on. 
 It's all *WIP* atm.
 #
